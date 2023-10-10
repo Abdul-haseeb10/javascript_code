@@ -5,6 +5,6 @@ cd js  #cd folder name
 git init
 git add .
 git commit -m "first"
-git remote add origin "github path url"
+git remote add origin <path>
 git pull origin master
 git push -f origin master
