@@ -11,4 +11,3 @@ let result = doubleNumber(3);
 
 // Logging the result
 console.log(result);
-wadxffdff
