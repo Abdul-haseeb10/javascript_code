@@ -1,0 +1,25 @@
+ 
+prop feasibility:-
+working on changes in search bar in prop feasibility and working on add backlog tasks( AHMAD ALI)
+adding screenshots on network road layer( HASSAN ABBASI)
+adding scrreen shots masters layer ( hassan abbasi)
+adding screenshots on zones layers to map ( hassan abbasi)
+
+AMS(Activity management system):-
+ working on front end  tasks working on backlog and sprint functionality (AHMAD ALI)
+
+CSR CDA,video creation:-
+Video for property worth(80%) (M.zulqarnain)
+
+CDA project:-  Generating PDF report template styling and visit to CDA
+
+added new module of comments(cured operations)  (waqar hussain)
+working on cda project 
+
+Propsure OPVS/
+DMS/Propsure ERP:-	
+housing scheme edit functionality on map (Syed Saqib Zarish)
+
+Asterisks:
+ working on grapgh QL request for ARMS integrations(Hamza Akhtar)
+
